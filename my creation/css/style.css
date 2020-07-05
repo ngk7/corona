@@ -64,7 +64,7 @@ overflow: hidden;
 min-height: 30px;
 }
 .cont{
-	
+	object-fit: cover;
 	margin-right: 30px;
 	position: relative;
 	right: 50px;
@@ -85,7 +85,7 @@ min-height: 30px;
  /*i2*/
 
 .container3{
-
+        object-fit: cover;
 	margin-right: 30px;
 	position: relative;
 	left: 500px;
@@ -94,7 +94,7 @@ min-height: 30px;
 	/*i2*/
 	/*i3*/
 	.containery {
-
+object-fit: cover;
 	margin-right: 30px;
 	position: relative;
 	left: 300px;
@@ -103,7 +103,7 @@ min-height: 30px;
 /*i3*/
  /*i4*/
  .container4{
-
+object-fit: cover;
 	margin-right: 30px;
 	position: relative;
 	left: 300px;
@@ -151,6 +151,7 @@ min-height: 30px;
 
 
  .containerz{
+	 object-fit: cover;
    float: right;
 	margin-right: 30px;
 	position: relative;
