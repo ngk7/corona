@@ -113,6 +113,7 @@ min-height: 30px;
  /*i4*/
  /*showcase*/
  #showcase{
+	 object-fit: cover;
 	background-image:url('../images/showcase.jpeg');
 	background-position: center right;
 	min-height: 300px;
