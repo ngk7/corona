@@ -1,0 +1,231 @@
+/*index*/
+body{
+	background-color: white;
+	color:black;
+	font-family: Arial ,Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.6em;
+    margin: 0;
+}
+.container{
+	width:80%;
+	margin: auto;
+	overflow: hidden;
+	min-height: 30px;
+}
+.container-1{
+	width:90%;
+	margin: auto;
+	overflow: hidden;
+	min-height: 30px;
+}
+.container-2{
+	width:80%;
+	margin: auto;
+	overflow: hidden;
+	word-spacing: 15px;
+	min-height: 30px;
+}
+#main-header{
+	background-color: coral;
+	color: white;
+	min-height: 30px;
+}
+#navbar{
+	background-color: #333;
+	color: white;
+	min-height: 30px;
+}
+#navbar ul{
+padding: 0;
+list-style: none;
+min-height: 30px;
+}
+#navbar li{
+	display: inline;
+	min-height: 30px;
+}
+#navbar a{
+	color: white;
+	text-decoration: none;
+font-size: 18px;
+padding: 15px;
+min-height: 30px;
+}
+/*index*/
+/*i1*/
+.container1 ul{
+float: left;
+width: 50%;
+padding: 30px;
+box-sizing: border-box;
+margin-left: 80px;
+overflow: hidden;
+min-height: 30px;
+}
+.cont{
+	
+	margin-right: 30px;
+	position: relative;
+	right: 50px;
+	top:80px;
+	min-height: 30px;
+
+
+}
+.container2{
+	padding-top: : 10px;
+	width: 90%;
+	margin: auto;
+	overflow: hidden;
+	min-height: 30px;
+}
+/*i1*/
+
+ /*i2*/
+
+.container3{
+
+	margin-right: 30px;
+	position: relative;
+	left: 500px;
+	min-height: 30px;
+	}
+	/*i2*/
+	/*i3*/
+	.containery {
+
+	margin-right: 30px;
+	position: relative;
+	left: 300px;
+	min-height: 30px;
+}
+/*i3*/
+ /*i4*/
+ .container4{
+
+	margin-right: 30px;
+	position: relative;
+	left: 300px;
+    top: 20px;
+    min-height: 30px;
+	}
+ /*i4*/
+ /*showcase*/
+ #showcase{
+	background-image:url('../images/showcase.jpeg');
+	background-position: center right;
+	min-height: 300px;
+	margin-bottom: 30px;
+	text-align: center;
+	min-height: 30px;
+
+}
+#showcase h1{
+	color: #fff;
+	font-size: 50px;
+	line-height: 1.6em;
+	padding-top: 30px;
+	min-height: 30px;
+
+}
+/*showcase*/
+
+.containerx{
+	float: left;
+	font-style: italic;
+	width:75%;
+	margin-top: 1px;
+	margin-left: 30px;
+    color:white;
+	overflow: hidden;
+	border: 2px #ccc solid;
+	padding: 20px;
+	border-radius: 15px;
+	background-image:url('../images/cbg.jpg');
+	background-position: center right;
+	box-sizing: border-box;
+	min-height: 30px;
+}
+
+
+ .containerz{
+   float: right;
+	margin-right: 30px;
+	position: relative;
+	top:60px;
+    box-sizing: border-box;
+    min-height: 30px;
+
+}
+
+
+.button{
+  
+    background-color: #3a6070;
+	color:white;
+	padding: 15px 15px;
+	text-align: center;
+    margin: auto;
+	border:none;
+	text-decoration: none;
+	min-height: 30px;
+	}
+.button:hover{
+	background: darkblue;
+	color:green;
+}
+.containera{
+	float: right;
+	position: relative;
+	right: 120px;
+	bottom: 320px;
+	min-height: 30px;
+}
+table {
+	border-collapse: collapse;
+	min-height: 30px;
+}
+table th {
+	text-align: left;
+	background-color: #3a6071;
+	color: #fff;
+	padding: 4px 30px 4px 8px;
+	min-height: 30px;
+
+}
+table td{
+	
+	border: 2px solid black;
+	padding: 4px 8px;
+	min-height: 30px;
+}
+.containerb{
+	width:80%;
+	margin-left: 500px;
+	overflow: hidden;
+	font-style: italic;
+	color:black;
+	min-height: 30px;
+
+}
+#mainfooter{
+	background-color: darkgrey;
+	color: white;
+	text-align: center;
+	padding: 20px;
+	margin-top: 40px;
+	min-height: 30px;
+
+}
+.containerc{
+	width:80%;
+	margin: auto;
+	overflow: hidden;
+	font-style: italic;
+	color:black;
+	border: 2px solid gray;
+	padding:5px 10px;
+	min-height: 30px;
+}
+
