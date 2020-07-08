@@ -183,6 +183,8 @@ object-fit: cover;
 	right: 120px;
 	bottom: 320px;
 	min-height: 30px;
+	width:100px;
+	height:100px;
 }
 table {
 	border-collapse: collapse;
@@ -230,24 +232,5 @@ table td{
 	padding:5px 10px;
 	min-height: 30px;
 }
-@margin (min-width:1200px) {
-	.containerz{
-		width:40%;
-		height:40%;
-	}
-	.containera{
-		width:20%;
-		height:10%;
-	}
-}
-@media (min-width:950px) and (min-width:1199px) {
-	.containerz{
-		width:20%;
-		height:20%;
-	}
-	.containera{
-		width:10%;
-		height:5%;
-	}
-}
+
 
